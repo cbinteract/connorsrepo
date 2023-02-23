@@ -5,12 +5,10 @@
 
 ## I'm a Wife, Mother, Developer, Creator, and Mentor!!
 - ✍ You can find my projects here [portfolio]
-- 🔭 I’m currently working on my first book.
-- 🌱 I’m currently learning React Native and Azure
-- 👯 I’m looking to collaborate on open source
-- 💬 Ask me about ... Anything
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I speak 4 languages ( English, Spanish, Romanian, Russian)
+- 🏫 I’m currently studying at the University of Connecticut
+- 🌱 I’m currently learning C/RISC-V Assembly
+- 👯 I’m looking to collaborate on Unity Game Development
+- ⚡ Fun fact: I speak 4 languages: English (America), English (UK), and English (Canada)
 
 
 ### Talk with me, I am kinda awesome:
@@ -54,20 +52,6 @@
 
 </details>
 
-[website]: https://holistic-developer.com/
-[youtube]: https://www.youtube.com/channel/UCD6bHzIZCJJcJD6QHGUIyrw
-[instagram]: https://www.instagram.com/holistic_developer/
-[linkedin]: https://linkedin.com/in/annaarsentieva
-[portfolio]: https://arsentieva.github.io/profile/
-
-###Hi there 👋
-
-- 🏫 I’m currently studying at the University of Connecticut
-- 🌱 I’m currently learning C/RISC-V Assembly
-- 👯 I’m looking to collaborate on Unity Game Development
-
-
-My Minecraft Server:
-https://www.prison-mc.net/
-
-Link to [site name](https://www.prison-mc.net/)
+[Prison MC]: (https://www.prison-mc.net/)
+[linkedin]: https://www.linkedin.com/in/connorbrush/
+[portfolio]: https://connorsrepo.github.io/profile/
