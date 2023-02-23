@@ -1,6 +1,6 @@
 ### Hello World, I'm Anna  👋
 
- <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/connorsrepo/connorsrepo/blob/main/headshot.jpeg?raw=true" width="500" height="500" />
 
 
 ## I'm a Wife, Mother, Developer, Creator, and Mentor!!
@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I speak 4 languages: English (America), English (UK), and English (Canada)
 
 
-### Talk with me, I am kinda awesome:
+### Connect with me on LinkedIn:
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
