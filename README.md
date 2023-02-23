@@ -1,4 +1,4 @@
-### Hello World, I'm Anna  👋
+### Hello World, I'm Connor  👋
 
  <img align="right" alt="GIF" src="https://github.com/connorsrepo/connorsrepo/blob/main/headshot.jpeg?raw=true" width="500" height="500" />
 
