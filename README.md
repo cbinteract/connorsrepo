@@ -55,3 +55,4 @@
 [Prison MC]: (https://www.prison-mc.net/)
 [linkedin]: https://www.linkedin.com/in/connorbrush/
 [portfolio]: https://connorsrepo.github.io/profile/
+[youtube]: https://www.linkedin.com/in/connorbrush/
